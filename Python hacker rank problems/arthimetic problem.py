@@ -17,9 +17,8 @@
 # Print the three lines as explained above.
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
-print("enter the first number")
 a = int(input())
-print("enter the 2nd number")
+
 b = int(input())
 
 print (a+b)
